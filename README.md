@@ -81,6 +81,7 @@ First Class and Same Day shipments account for lower sales volumes.
 
 Interactive map visualization shows distribution of profit and sales by state, allowing users to identify high and low-performing regions.
 
+
 Tools & Technologies Used
 
 Data Visualization: Power BI / Tableau (depending on what you used)
@@ -89,3 +90,5 @@ Data Processing: SQL, Excel, or Python (pandas, numpy)
 
 Dashboard Design: KPI Cards, Pie Charts, Line Charts, Bar Charts, Geo Maps
 
+
+Screenshot / Demo link
