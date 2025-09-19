@@ -9,6 +9,7 @@ region, and shipping mode. The dashboard enables data-driven decision-making by 
 This project demonstrates strong skills in data visualization, reporting, and storytelling using interactive dashboards.
 
 Features
+
 🔹 Key Metrics
 
 Total Sales: $1.6M
