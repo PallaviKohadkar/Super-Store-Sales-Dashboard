@@ -92,3 +92,6 @@ Dashboard Design: KPI Cards, Pie Charts, Line Charts, Bar Charts, Geo Maps
 
 
 Screenshot / Demo link
+https://github.com/PallaviKohadkar/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.png
+<img width="1323" height="742" alt="Super Store Sales Dashboard" src="https://github.com/user-attachments/assets/6137bda0-1012-48d6-9b3f-c32d65273796" />
+
