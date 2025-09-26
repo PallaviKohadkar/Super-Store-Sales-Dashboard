@@ -85,7 +85,7 @@ Interactive map visualization shows distribution of profit and sales by state, a
 
 Tools & Technologies Used
 
-Data Visualization: Power BI / Tableau (depending on what you used)
+Data Visualization: Power BI 
 
 Data Processing: SQL, Excel, or Python (pandas, numpy)
 
